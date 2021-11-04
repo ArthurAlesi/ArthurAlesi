@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="border-width: solid; border-color:red">
+<div style="border-style: solid; border-color:red; border-width:1px">
   README Principal em construção... voltamos já
   
-  </div>
+</div>
