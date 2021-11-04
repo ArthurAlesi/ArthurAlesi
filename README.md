@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  teste
+<div style="border-width: solid; border-color:red">
+  README Principal em construção... voltamos já
   
   </div>
