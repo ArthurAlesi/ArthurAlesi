@@ -20,7 +20,7 @@ started 04/11/2021
 you can check some of them already: <br><br>
 <a  href="https://github.com/ArthurAlesi/JAVA-OO-Project-1" target="_blank">Java object-orientation</a> ✔✔<br>
 <a href="https://arthuralesi.github.io/StepCourse-2ndModule-Final-Project-JAVASCRIPT/"  target="_blank">A food cart with javascript</a>✔✔<br>
-<ahref="https://github.com/ArthurAlesi/JAVASCRIPT-JQUERY-Project"  target="_blank" > Snake game with Javascript </a>✔✔<br>
+<a href="https://github.com/ArthurAlesi/JAVASCRIPT-JQUERY-Project"  target="_blank" > Snake game with Javascript </a>✔✔<br>
 <a  href="https://github.com/ArthurAlesi/Form-React-Native" target="_blank">Login form with React-Native </a>✔✔<br>
 
 <h2> GitHub.io </h2>
