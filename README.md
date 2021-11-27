@@ -16,5 +16,19 @@ Here are some ideas to get you started:
 -->
 <h1>I'm remodeling my github</h1>
 started 04/11/2021
+<h2> i'm reuploading and reorganizing my projects </h2>
+you can check some of them already: <br><br>
+<a href="https://github.com/ArthurAlesi/JAVA-OO-Project-1">Java object-orientation</a> ✔✔<br>
+<a href="https://arthuralesi.github.io/StepCourse-2ndModule-Final-Project-JAVASCRIPT/">A food cart with javascript</a>✔✔<br>
+<a href="https://github.com/ArthurAlesi/JAVASCRIPT-JQUERY-Project"> Snake game with Javascript </a>✔✔<br>
+<a href="https://github.com/ArthurAlesi/Form-React-Native">Login form with React-Native </a>✔✔<br>
+
+<h2> GitHub.io </h2>
+<a href="https://arthuralesi.github.io/StepCourse-2ndModule-Final-Project-JAVASCRIPT/">Food Cart:  https://arthuralesi.github.io/StepCourse-2ndModule-Final-Project-JAVASCRIPT/</a> <br>
+<a href="https://arthuralesi.github.io/JAVASCRIPT-JQUERY-Project/">Snake Game:  https://arthuralesi.github.io/JAVASCRIPT-JQUERY-Project/</a>
+
+
+
+
 <img src="https://monophy.com/media/Lr4HRF6DEEJo90SQXF/monophy.gif">
 
