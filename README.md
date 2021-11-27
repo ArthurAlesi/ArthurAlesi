@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 started 04/11/2021
 <h2> i'm reuploading and reorganizing my projects </h2>
 you can check some of them already: <br><br>
-<a target="_blank" href="https://github.com/ArthurAlesi/JAVA-OO-Project-1">Java object-orientation</a> ✔✔<br>
-<a target="_blank" href="https://arthuralesi.github.io/StepCourse-2ndModule-Final-Project-JAVASCRIPT/">A food cart with javascript</a>✔✔<br>
-<a target="_blank" href="https://github.com/ArthurAlesi/JAVASCRIPT-JQUERY-Project"> Snake game with Javascript </a>✔✔<br>
-<a target="_blank" href="https://github.com/ArthurAlesi/Form-React-Native">Login form with React-Native </a>✔✔<br>
+<a  href="https://github.com/ArthurAlesi/JAVA-OO-Project-1" target="_blank">Java object-orientation</a> ✔✔<br>
+<a href="https://arthuralesi.github.io/StepCourse-2ndModule-Final-Project-JAVASCRIPT/"  target="_blank">A food cart with javascript</a>✔✔<br>
+<ahref="https://github.com/ArthurAlesi/JAVASCRIPT-JQUERY-Project"  target="_blank" > Snake game with Javascript </a>✔✔<br>
+<a  href="https://github.com/ArthurAlesi/Form-React-Native" target="_blank">Login form with React-Native </a>✔✔<br>
 
 <h2> GitHub.io </h2>
 <a target="_blank"  href="https://arthuralesi.github.io/StepCourse-2ndModule-Final-Project-JAVASCRIPT/">Food Cart:  https://arthuralesi.github.io/StepCourse-2ndModule-Final-Project-JAVASCRIPT/</a> <br>
