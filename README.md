@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>I'm remodeling my github</h1>
-started 04/11/2021
+
 <h2> i'm reuploading and reorganizing my projects </h2>
 you can check some of them already: <br><br>
 <a  href="https://github.com/ArthurAlesi/JAVA-OO-Project-1" target="_blank">Java object-orientation</a> ✔✔<br>
