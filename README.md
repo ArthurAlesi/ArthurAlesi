@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronounsred
 - ⚡ Fun fact: ...
 -->
-<h1>Hi/h1>
+<h1>Hi</h1>
 
 <h2> i'm reuploading and reorganizing my projects </h2>
 you can check some of them already: <br><br>
