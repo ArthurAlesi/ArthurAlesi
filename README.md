@@ -27,7 +27,7 @@ you can check some of them already: <br><br>
 <a target="_blank"  href="https://arthuralesi.github.io/StepCourse-2ndModule-Final-Project-JAVASCRIPT/">Food Cart:  https://arthuralesi.github.io/StepCourse-2ndModule-Final-Project-JAVASCRIPT/</a> <br>
 <a target="_blank" href="https://arthuralesi.github.io/JAVASCRIPT-JQUERY-Project/">Snake Game:  https://arthuralesi.github.io/JAVASCRIPT-JQUERY-Project/</a>
 
-
+![Snake animation](https://github.com/ArthurAlesi/ArthurAlesi/blob/output/github-contribution-grid-snake.svg)
 
 
 
